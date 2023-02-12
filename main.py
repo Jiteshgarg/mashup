@@ -132,7 +132,7 @@ if(flag==1):
 
         
 # Email credentials
-        from_email = "jiteshgarg555@gmail.com"
+        from_email = "jiteshgarg315@gmail.com"
         to_email = Email
         password = "vswrvcerwqtnokry"
 
