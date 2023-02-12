@@ -132,9 +132,9 @@ if(flag==1):
 
         
 # Email credentials
-        from_email = "jiteshgarg315@gmail.com"
+        from_email = "jiteshgarg555@gmail.com"
         to_email = Email
-        password = "psittuabzrjkoiww"
+        password = "fyeqcmdajfuxdouz"
 
 # Email settings
         subject = "Zip file attached"
